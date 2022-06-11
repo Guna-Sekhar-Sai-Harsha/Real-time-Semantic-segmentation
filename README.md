@@ -10,7 +10,9 @@ In BMVC 2018
 ```
 
 
-If you want to train the network on your own dataset, specify the arguments (see the available options in [src_v2/arguments.py](https://github.com/DrSleep/light-weight-refinenet/blob/master/src_v2/arguments.py)) and provide implementation of your dataset in [src_v2/data.py](https://github.com/DrSleep/light-weight-refinenet/blob/master/src_v2/data.py#L283) if it is not supported by either [densetorch](https://github.com/DrSleep/DenseTorch) or [torchvision](https://pytorch.org/docs/stable/torchvision/datasets.html).
+If you want to train the network on your own dataset, specify the arguments (see the available options in [src_v2/arguments.py](https://github.com/ Guna-Sekhar-Sai-Harsha /
+Real-time-Semantic-segmentation/blob/master/src_v2/arguments.py)) and provide implementation of your dataset in [src_v2/data.py](https://github.com Guna-Sekhar-Sai-Harsha /
+Real-time-Semantic-segmentation/blob/master/src_v2/data.py#L283) if it is not supported by either [densetorch](https://github.com/DrSleep/DenseTorch) or [torchvision](https://pytorch.org/docs/stable/torchvision/datasets.html).
 
 ## Getting Started
 
